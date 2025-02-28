@@ -39,8 +39,7 @@ Deployed on Netlify for easy access.
 
 **📜 Installation & Setup**
 
-Clone the repository:
-git clone https://github.com/priyanshupandey20/RegisterKaro-Assignment.git
+Clone the repository
 
 Navigate to the project folder:
 cd RegisterKaro-Assignment
@@ -62,7 +61,3 @@ npm run build
 
 Then, deploy the dist folder to your preferred hosting service.
 
-📌 Contact
-
-For any queries, feel free to reach out:
-📧 Email: priyanshukpandey20@gmail.com
